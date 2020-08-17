@@ -39,6 +39,7 @@ __ELI5__ - Explain like I'm 5...
 
   * learning with errors (LWE)
   * Social Engineering
+  * Stock Values
 
 ### Constraints
 
