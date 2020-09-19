@@ -25,6 +25,24 @@ __ELI5__ - Explain like I'm 5...
   * Measuring eaves-dropping in QKD and account for interference
 
 * Machine learning
+  * predictions compare classical and quantum
+    * Gambling(Sports)
+    * Elections
+    * Stocks
+    * Population
+    * Federal Debt
+    * Pandemic recovery
+    * Health Care costs continue to rise
+    * Oil and Gas Prices Will Rebound
+    * The Dollar Will Continue to Dip and Swell
+    * Inflation Will Remain Subdued
+    * Housing Growth Will Be Sustainable
+    * The U.S. Is Involved in Fewer Ground Wars
+    * Economic bubbles
+    * Climate Risk
+    * Asset Class Forecast
+    * Sports(trading/picking)
+    * Highly skewed event/ turbulent events (surface water wave)
   * post quantum crypto algorithms
     * 50+ results
     * quantifying/**codifying** the algorithm for the result.
