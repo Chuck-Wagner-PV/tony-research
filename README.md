@@ -25,7 +25,7 @@ __ELI5__ - Explain like I'm 5...
   * Measuring eaves-dropping in QKD and account for interference
 
 * Machine learning
-  * predictions compare classical and quantum
+  * predictions compare classical and quantum - measure speed and accuracy
     * Gambling(Sports)
     * Elections
     * Stocks
@@ -54,6 +54,9 @@ __ELI5__ - Explain like I'm 5...
 
   * for a computational problem determine if quantum computer solution possible, and best type
     * Proof that algorthims can't be analyzed... *Chuck to research*
+    
+  * Quantum simulation
+  * Quantum Accelerometer
 
   * learning with errors (LWE)
   * Social Engineering
